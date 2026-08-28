@@ -15665,3 +15665,19 @@ form.woocommerce-ordering:after {
 /*================================================================================
 	Shop Page Css End
 =================================================================================*/
+
+
+.devhub {
+    font-family: 'Tangerine', cursive;
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff !important;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.devhub:hover {
+    font-size: 32px;
+    color: #fff !important;
+    text-decoration: none;
+}
